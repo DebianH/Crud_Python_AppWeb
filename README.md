@@ -8,11 +8,11 @@ Descarga los archivo e inicia ejecutando el archivo app.py
 
 Luego abre un navegador y ejecuta en el local host 127.0.0.1:5000
 
-![Imagen](https://github.com/DebianH/Crud_Python_AppWeb/tree/master/img/Inicio.JPG)
+![Imagen2](https://github.com/DebianH/Crud_Python_AppWeb/tree/master/img/Inicio.JPG)
 
 Click en Agregar y Escribes la nota que deseas guardar.
 
-![Imagen](https://github.com/DebianH/Crud_Python_AppWeb/tree/master/img/Primero.JPG)
+![Imagen3](https://github.com/DebianH/Crud_Python_AppWeb/tree/master/img/Primero.JPG)
 
 
 
