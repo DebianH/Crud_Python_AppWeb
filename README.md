@@ -12,7 +12,7 @@ Luego abre un navegador y ejecuta en el local host 127.0.0.1:5000
 
 Click en Agregar y Escribes la nota que deseas guardar.
 
-![Imagen3](img/Primero.JPG)
+![Imagen3](img/Escribir.JPG)
 
 
 
